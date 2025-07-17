@@ -1,0 +1,462 @@
+{
+    "a": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5,
+                6
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                1
+            ]
+        }
+    ],
+    "am": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                4
+            ]
+        }
+    ],
+    "an": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                1
+            ]
+        }
+    ],
+    "and": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "atmospher": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "cool": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                3,
+                6
+            ]
+        }
+    ],
+    "creat": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "end": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "even": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                1
+            ]
+        }
+    ],
+    "file": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2,
+                3
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                2,
+                6
+            ]
+        }
+    ],
+    "generic": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                1
+            ]
+        }
+    ],
+    "give": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "got": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "guess": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "i": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                3,
+                6
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                2,
+                4,
+                5
+            ]
+        }
+    ],
+    "in": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                3
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "is": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                1,
+                3
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                1,
+                6
+            ]
+        }
+    ],
+    "keep": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "know": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "life": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "lol": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "myself": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                3
+            ]
+        }
+    ],
+    "name": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "natur": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "nice": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                2
+            ]
+        }
+    ],
+    "nicer": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2
+            ]
+        }
+    ],
+    "of": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                4
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "one": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2
+            ]
+        }
+    ],
+    "outsid": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2,
+                4
+            ]
+        }
+    ],
+    "peopl": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "so": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "sometim": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "talent": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "text": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2
+            ]
+        }
+    ],
+    "than": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2
+            ]
+        }
+    ],
+    "that": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "the": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                2,
+                3
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "thing": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "think": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                4
+            ]
+        }
+    ],
+    "this": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                1,
+                3,
+                4
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                1,
+                3,
+                6
+            ]
+        }
+    ],
+    "tire": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                4
+            ]
+        }
+    ],
+    "titl": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                1,
+                3
+            ]
+        }
+    ],
+    "to": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        },
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "too": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                4
+            ]
+        }
+    ],
+    "type": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                5
+            ]
+        }
+    ],
+    "veri": [
+        {
+            "filePath": "./sample_files\\nice.txt",
+            "lineNumbers": [
+                1
+            ]
+        }
+    ],
+    "way": [
+        {
+            "filePath": "./sample_files\\nice.md",
+            "lineNumbers": [
+                6
+            ]
+        }
+    ],
+    "world": [
+        {
+            "filePath": "./sample_files\\nested_folder\\nicer.txt",
+            "lineNumbers": [
+                4
+            ]
+        }
+    ]
+}
