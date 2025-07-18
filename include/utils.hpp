@@ -5,12 +5,10 @@
 #include <iomanip>
 #include <ostream>
 #include <indexer.hpp>
-#include <json.hpp>
 
 using std::vector;
 using std::cout;
 using std::ostream;
-using json = nlohmann::json;
 
 template<typename T>
 void printVector(const vector<T>& arr, string separator = " ") {
@@ -19,28 +17,6 @@ void printVector(const vector<T>& arr, string separator = " ") {
 	}
 	cout << std::endl;
 }
-
-void to_json(json& j, const FileHit& hit) {
-	j = json{
-		{ "filePath", hit.filePath },
-		{ "lineNumbers", hit.lineNumbers }
-	};
-}
-
-void saveIndexToJson(InvertedIndex& index, const string& filePath) {
-	json j;
-
-	for (const auto& [word, hits]: index) {
-		j[word] = hits;
-	}
-
-	std::ofstream file(filePath);
-
-	// indents 4 spaces per json operation
-	file << std::setw(4) << j << std::endl;
-	file.close();
-}
-
 
 /*
 	This function allows for cout << hit, where hit is of type FileHit, 
@@ -60,7 +36,7 @@ inline ostream& operator<<(ostream& os, const FileHit& hit) {
 }
 
 inline ostream& operator<<(ostream& os, const InvertedIndex& index) {
-	for (auto wordHitPair: index) {
+	for (auto wordHitPair: index.index) {
 		string word = wordHitPair.first;
 		vector<FileHit> hits = wordHitPair.second;
 
